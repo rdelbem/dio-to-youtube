@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "DIO to YouTube",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://web.digitalinnovation.one/course/*"],
+      "js": ["index.js"]
+    }
+  ]
+}
