@@ -2,6 +2,10 @@
 
 Esse programa é uma extensão para o Chrome. O DTY adiciona um link para que se possa assistir ao video da aula diretamente no YouTube, o que permite ao aulo assistir na velocidade desejada, algo, ainda, impossível de ser feito diretamente no site da DIO.
 
+## Demo gif
+
+![](demonstracao.gif)
+
 ### FAQ
 
 #### Como instalo essa extensão?
