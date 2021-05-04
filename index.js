@@ -1,4 +1,4 @@
-class dioToYoutube {
+class DioToYoutube {
   constructor() {
     this.theSrc = "";
     this.isSrcAvailable = false;
@@ -65,4 +65,4 @@ class dioToYoutube {
     }
   }
 }
-new dioToYoutube();
+new DioToYoutube();
