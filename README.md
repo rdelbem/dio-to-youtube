@@ -12,8 +12,8 @@ Esse programa é uma extensão para o Chrome. O DtY adiciona um link para que se
 
 Clique no botão "Código" ("Code"), depois faça o download como zip. Descompacte o aquivo no local desejado.
 Abra seu Google Chrome e digite chrome://extensions/
-Arraste a pasta descompactada para dentro do chrome.
-Ative a extensão
+Clique no botão "Carregar sem compactação", selecione a pasta descompactada. Pronto, a extensão já deve estar ativa no seu navegador.
+Ficou com dúvida? Acesse o vídeo explicativo: https://youtu.be/m3BNmRzm0Sc
 
 ### Gostou dessa extensão?
 
