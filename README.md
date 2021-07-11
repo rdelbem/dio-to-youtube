@@ -1,4 +1,8 @@
+# Essa repo será descontinuada, por isso não receberá mais qualquer atualização.
+
 ## Dio to Youtube (DtY)
+
+## Hoje, 11/07/2021, constatei que o site da DIO está oferecendo playback-rate, o que torna essa extensão obsoleta. Foi um prazer poder colaborar com a educação de todos!
 
 Esse programa é uma extensão para o Chrome. O DtY adiciona um link para que se possa assistir ao vídeo da aula diretamente no YouTube, o que permite ao aluno assistir na velocidade desejada, algo, ainda, impossível de ser feito diretamente no site da DIO.
 
